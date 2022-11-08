@@ -1,0 +1,14 @@
+.Cl1 {
+    color: white;
+    background-color: black;
+}
+
+.Cl2 {
+    background-color: yellow;
+}
+
+.Cl1,
+.Cl2 {
+    font-size: 28px;
+    font-family: 'Helvetica','Times New Roman',sans-serif;
+}
